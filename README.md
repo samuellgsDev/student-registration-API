@@ -275,12 +275,3 @@ curl -X PUT http://localhost:5197/api/alunos/1 \
 curl -X DELETE http://localhost:5197/api/alunos/1
 ```
 
-## Próximos Passos (Extensões)
-
-- Implementar Repository Pattern para abstrair acesso a dados
-- Adicionar relacionamentos (ex: Aluno -> Curso, Matrícula)
-- Implementar paginação nos endpoints de listagem
-- Adicionar autenticação/autorização (JWT)
-- Implementar testes unitários e de integração
-- Adicionar logging estruturado (Serilog)
-- Implementar versionamento de API
