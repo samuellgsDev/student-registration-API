@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiAlunosEfCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22d43a49f3b035660665d9dd372a183f9d9a9570")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiAlunosEfCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiAlunosEfCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
